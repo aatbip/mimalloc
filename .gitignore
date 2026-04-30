@@ -11,3 +11,5 @@ docs/
 *.gz
 .vscode
 .DS_STore
+.cache
+compile_commands.json
